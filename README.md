@@ -14,7 +14,7 @@ The naming convention follows **Year–Method** for clarity.
 | Year | Notebook | Paper Title | Journal / Venue |
 |-----:|----------|-------------|-----------------|
 | 2018 | `2018-DiNMF & LP-DiNMF.ipynb` | *Diverse Non-Negative Matrix Factorization for Multiview Data Representation* | IEEE Transactions on Cybernetics |
-| 2020 | `2020-2CMV.ipynb` | *A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering* | IEEE 36th International Conference on Data Engineering (ICDE) |
+| 2020 | `2020-2CMV.ipynb` | *A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering* | IEEE International Conference on Data Engineering (ICDE) |
 | 2020 | `2020-NMF-CC.ipynb` | *Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints* | Knowledge-Based Systems |
 | 2022 | `2022-NRRNMF.ipynb` | *Nonredundancy regularization based nonnegative matrix factorization with manifold learning for multiview data representation* | Information Fusion |
 | 2023 | `2023-ACMF-GDR.ipynb` | *Auto-weighted collective MF with graph dual regularization for multi-view clustering* | Knowledge-Based Systems |
