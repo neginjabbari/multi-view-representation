@@ -35,7 +35,8 @@ If you use this repository or its implementations in your research, please cite 
 ```bibtex
 @article{JABARI2026C4MV,
   title   = {Contrastive Calibration on Consensus and Complementary Multi-View Representations},
-  author  = author = {Negin Jabari and Amjad Seyedi and Reza Mahmoodi and Fardin {Akhlaghian Tab}},
+  author  = {Jabari, Negin and Seyedi, Amjad and Mahmoodi, Reza and Akhlaghian Tab, Fardin},
   journal = {Pattern Recognition},
-  year    = {2026}
+  year    = {2026},
+  doi     = {10.1016/j.patcog.2026.113291}
 }
